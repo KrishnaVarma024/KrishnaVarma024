@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @KrishnaVarma024 (KRISHNA VARMA).
-- 👀 I’m interested in Application Security Expert roles (As of now beginner)
-- 🌱 I’m currently learning CCNA certification course / ctf player / CompTIA Linux + / CompTIA Security + (By 2025 JUN)
+- 👀 I’m interested in development, know few key concepts related to the implemenation of finance.
+- 🌱 I’m currently learning web3, Rust and Ai related Math stuff
 - 🌱 I’m currently working as bi0s team member under Digital Forensics & Web domain.
-- 🌱 I’m currently working on building a Video Editing Agency & it's software creation.
-- 💞️ I’m looking to collaborate on with " NO_ONE ".
 - 📫 How to reach me @KRISHNA VARMA (https://www.linkedin.com/in/krishna-varma-0056bb260/).
 - 😄 Pronouns: [kai-zen]
 - ⚡ Fun fact:
